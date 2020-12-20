@@ -1,1 +1,1 @@
-e4 c5 Nf3 d6 g3 a6 Bg2 Nc6 O-O Nf6 Nc3 e6 d3 Be7 Bg5 O-O Bxf6 *
+e4 e5 Nf3 f6 d4 d6 dxe5 dxe5 Bd3 Bg4 O-O Qd7 Be3 a6 b4 Bxb4 c3 Bd6 Nbd2 Nc6 Rb1 b5 a4 bxa4 Qxa4 Bxf3 Nxf3 Nge7 Rb7 O-O Bxa6 Qc8 Qb5 Na7 Rxa7 Rxa7 Bxc8 Nxc8 Bxa7 Nxa7 Qd5+ Kh8 Qe6 h6 Qf5 Nb5 Nh4 Nxc3 *
